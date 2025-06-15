@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://intellectinfra.in/</loc>
+    <lastmod>2025-06-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://intellectinfra.in/#about</loc>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://intellectinfra.in/#services</loc>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://intellectinfra.in/#projects</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://intellectinfra.in/#client</loc>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://intellectinfra.in/contact</loc>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://intellectinfra.in/assets/Company%20profile/INTELLECT%20INFRA%20SOLUTIONS%20-%20COMPANY%20PROFILE.pdf</loc>
+    <priority>0.60</priority>
+</url>
+
+</urlset>
